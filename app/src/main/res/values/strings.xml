@@ -1,0 +1,16 @@
+
+<resources>
+    <string name="app_name">Superheroes</string>
+    <string name="hero1">Iron Men</string>
+    <string name="description1">Es un hombre con habilidades tecnicas</string>
+    <string name="hero2">Mujer Maravilla</string>
+    <string name="description2">Mujer con habilidades de fuerza y accion</string>
+    <string name="hero3">Ojo de alcohon</string>
+    <string name="description3">Hombre con habilidad de arcos y flechas</string>
+    <string name="hero4">Hulk</string>
+    <string name="description4">Hombre con habilidades de fuerza</string>
+    <string name="hero5">Capitan America</string>
+    <string name="description5">Habilidades de fuerza y rapidez</string>
+    <string name="hero6">Cani</string>
+    <string name="description6">Habilidad de desaparecer</string>
+</resources>
